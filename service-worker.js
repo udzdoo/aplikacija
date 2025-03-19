@@ -9,7 +9,7 @@ const urlsToCache = [
     'icons/android-icon-96x96.png',
     'icons/android-icon-144x144.png',
     'icons/android-icon-192x192.png',
-    'https://creator.voiceflow.com/prototype/67d0d79b756dab285ec1318e',
+    'https://creator.voiceflow.com/prototype/67db2750934578efd511a099',
     'offline.html'
 ];
 
